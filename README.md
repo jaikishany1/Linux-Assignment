@@ -63,6 +63,9 @@ sudo deluser students1 sudo
 error : I'm sorry students1. I'm afraid I can't do that
 
 
+
+
+
 ---------------------------------------------------Question 3 ---------------------------------------------------
 
 <!--
@@ -81,6 +84,10 @@ sudo chmod +x usr/local/bin/describe
 
 3. finally test describe command in any directory
 $ describe
+
+
+
+
 ---------------------------------------------------Question 4 ---------------------------------------------------
 
    <!-- 
@@ -98,6 +105,8 @@ sudo find  / -type f -name "research.*"
 tar -xzvf research.tar.gz -c decompress_research/
 
 4. ls -l /decompress_research/research
+
+
 
 
 
@@ -121,6 +130,8 @@ touch myFileWithNoPermission
 
 4. writing content to that file to check permission
 echo "my example text" >> myFileWithNoPermission
+
+
 
 
 
