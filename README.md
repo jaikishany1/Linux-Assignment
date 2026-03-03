@@ -1,6 +1,38 @@
 # Linux-Assignment
 completed linux internship assignment
 
+Directory Structure
+
+ASSIGNMENTS/
+└── Question/
+    ├── Question1/
+    │   ├── image/
+    │   ├── mail/
+    │   └── Question_1.md
+    │
+    ├── Question2/
+    │   ├── image/
+    │   │   ├── image_01.png
+    │   │   └── image_02.png
+    │   └── question_2.md
+    │
+    ├── Question3/
+    │   ├── image/
+    │   └── question_3.md
+    │
+    ├── Question4/
+    │   ├── image/
+    │   └── question_4.md
+    │
+    ├── Question5/
+    │   ├── image/
+    │   └── question_5.md
+    │
+    └── Question6/
+        ├── image/
+        └── question_6
+
+
 ---------------------------------------------------Question 1 ---------------------------------------------------
 
 <!-- Q1.configure smtp in localhost
