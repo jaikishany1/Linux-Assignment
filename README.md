@@ -2,6 +2,7 @@
 completed linux internship assignment
 
 Directory Structure
+...
 
 ASSIGNMENTS/
 └── Question/
@@ -31,7 +32,7 @@ ASSIGNMENTS/
     └── Question6/
         ├── image/
         └── question_6
-
+...
 
 ---------------------------------------------------Question 1 ---------------------------------------------------
 
