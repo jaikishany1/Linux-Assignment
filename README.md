@@ -13,7 +13,8 @@ EmployeeID - TSV922   -->
 sudo apt update && sudo apt install postfix -y 
 
 2.configure Postfix 
-myhostname = localhost 
+
+myhostname = localhost
 mydomain = localdomain 
 myorigin =$mydomain 
 inet_interfaces = loopback-only 
@@ -34,6 +35,7 @@ sudo apt install mailutils -y
 
 7.send Email
 root@sigmoid-ThinkPad-T460:/etc/postfix# echo "Hii jaykishan ! welcome to the postfix " | mail -s "Welcome to ubuntu" root@localhost
+
 
 
 
